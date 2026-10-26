@@ -14,15 +14,23 @@ I feel I am getting closer to the secret of the world. As you get closer, you re
 
 ## Work
 
-- [ctlux-core](https://github.com/JamesAugustus/ctlux-core): lighting project files to Radiance scenes, product photometry and age dependent glare
-- [ctlux-evo](https://github.com/JamesAugustus/ctlux-evo): method notes on DIALux evo lighting layouts
-- [ctlux-ls10](https://github.com/JamesAugustus/ctlux-ls10): method notes on the Lumion .ls10 file grammar
+[CTCPU and Hunter](https://github.com/JamesAugustus/ctcpu-hunter): a processor idea, mathematical models and verification tests.
+
+[Pascal Mersenne Rows](https://github.com/JamesAugustus/pascal-mersenne-rows): Pascal rows in Mersenne bases, identities, tables and exact arithmetic programs.
+
+[ctlux-core](https://github.com/JamesAugustus/ctlux-core): lighting project files to Radiance scenes, product photometry and age dependent glare.
+
+[ctlux-evo](https://github.com/JamesAugustus/ctlux-evo): method notes on DIALux evo lighting layouts.
+
+[ctlux-ls10](https://github.com/JamesAugustus/ctlux-ls10): method notes on the Lumion .ls10 file grammar.
 
 ## Elsewhere
 
-- Medium: [@jamesaugustus1313](https://medium.com/@jamesaugustus1313)
-- Instagram: [@jamesaugustus__](https://www.instagram.com/jamesaugustus__/)
-- Email: jamesaugustus1313@gmail.com
+Medium: [@jamesaugustus1313](https://medium.com/@jamesaugustus1313)
+
+Instagram: [@jamesaugustus__](https://www.instagram.com/jamesaugustus__/)
+
+Email: jamesaugustus1313@gmail.com
 
 ---
 
@@ -37,3 +45,15 @@ Eski tutkum resimde soyutlamanın, yaşanmış deneyimi bir bütün olarak yans�
 Çevremde aydınlatmacılar olması, çizime olan merakım ve John Carmack'in grafikteki devrimlerinin mantığını aslında çizerlerin ve matematikçilerin günlük hayatta yaptığını fark etmem, bildiğimiz basit teorileri uygulayan programların nasıl çalıştığını çözmeyi ilgi alanım yaptı. Binary ve hex okuma takıntım beni buraya getirdi. Şu sıralar Braille alfabesi ve Mors öğreniyorum.
 
 Dünyanın sırrına yaklaştığımı hissediyorum. O sırra yaklaştıkça, aslında bir sır olmadığını yolun kendisinde anlıyorsunuz.
+
+## Çalışmalar
+
+[CTCPU ve Hunter](https://github.com/JamesAugustus/ctcpu-hunter): işlemci fikri, matematiksel modeller ve doğrulama testleri.
+
+[Pascal Mersenne Rows](https://github.com/JamesAugustus/pascal-mersenne-rows): Mersenne tabanlarında Pascal satırları, özdeşlikler, tablolar ve kesin aritmetik programları.
+
+[ctlux-core](https://github.com/JamesAugustus/ctlux-core): aydınlatma proje dosyalarından Radiance sahnelerine dönüşüm, ürün fotometrisi ve yaşa bağlı kamaşma.
+
+[ctlux-evo](https://github.com/JamesAugustus/ctlux-evo): DIALux evo aydınlatma yerleşimleri üzerine yöntem notları.
+
+[ctlux-ls10](https://github.com/JamesAugustus/ctlux-ls10): Lumion .ls10 dosya biçimi üzerine yöntem notları.
