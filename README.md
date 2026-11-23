@@ -14,6 +14,8 @@ I feel I am getting closer to the secret of the world. As you get closer, you re
 
 ## Work
 
+[Bow Draw](https://github.com/JamesAugustus/bow-draw): in every number base, the carries of Pascal's triangle catch up with the rows at one exact point. Paper, proofs and programs. DOI [10.5281/zenodo.24451375](https://doi.org/10.5281/zenodo.24451375).
+
 [CTCPU and Hunter](https://github.com/JamesAugustus/ctcpu-hunter): a processor idea, mathematical models and verification tests.
 
 [Pascal Mersenne Rows](https://github.com/JamesAugustus/pascal-mersenne-rows): Pascal rows in Mersenne bases, identities, tables and exact arithmetic programs.
