@@ -14,6 +14,8 @@ Dünyanın sırrına yaklaştığımı hissediyorum. O sırra yaklaştıkça, as
 
 ## Çalışmalar
 
+[Bow Draw](https://github.com/JamesAugustus/bow-draw): her sayı tabanında Pascal üçgeninin eldeleri satırlara tek ve kesin bir noktada yetişir. Makale, kanıtlar ve programlar. DOI [10.5281/zenodo.24451375](https://doi.org/10.5281/zenodo.24451375).
+
 [CTCPU ve Hunter](https://github.com/JamesAugustus/ctcpu-hunter): işlemci fikri, matematiksel modeller ve doğrulama testleri.
 
 [Pascal Mersenne Rows](https://github.com/JamesAugustus/pascal-mersenne-rows): Mersenne tabanlarında Pascal satırları, özdeşlikler, tablolar ve kesin aritmetik programları.
