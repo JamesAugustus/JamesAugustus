@@ -18,9 +18,9 @@ I feel I am getting closer to the secret of the world. As you get closer, you re
 
 [Bow Draw](https://github.com/JamesAugustus/bow-draw): in every number base, the carries of the central coefficients of Pascal's triangle catch up with the number of rows at one row, the arrow. A prime stops exactly there, a composite goes past it. Paper, proofs and programs. DOI [10.5281/zenodo.24451375](https://doi.org/10.5281/zenodo.24451375).
 
-[CTCPU and Hunter](https://github.com/JamesAugustus/ctcpu-hunter): a processor design built on Pascal structures and its own number notation, with mathematical models and verification tests.
+[CTCPU and Hunter](https://github.com/JamesAugustus/ctcpu-hunter): a processor design built on Pascal structures and its own number notation, with mathematical models and verification tests. DOI [10.5281/zenodo.23712452](https://doi.org/10.5281/zenodo.23712452).
 
-[Pascal Mersenne Rows](https://github.com/JamesAugustus/pascal-mersenne-rows): which rows of Pascal's triangle can be written without carries in a Mersenne base 2^p − 1. Proofs, tables and exact arithmetic programs.
+[Pascal Mersenne Rows](https://github.com/JamesAugustus/pascal-mersenne-rows): which rows of Pascal's triangle can be written without carries in a Mersenne base 2^p − 1. Proofs, tables and exact arithmetic programs. DOI [10.5281/zenodo.23702003](https://doi.org/10.5281/zenodo.23702003).
 
 [ctlux-core](https://github.com/JamesAugustus/ctlux-core): lighting project files to Radiance scenes, product photometry and age dependent glare.
 
