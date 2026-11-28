@@ -14,11 +14,13 @@ Dünyanın sırrına yaklaştığımı hissediyorum. O sırra yaklaştıkça, as
 
 ## Çalışmalar
 
-[Bow Draw](https://github.com/JamesAugustus/bow-draw): her sayı tabanında Pascal üçgeninin eldeleri satırlara tek ve kesin bir noktada yetişir. Makale, kanıtlar ve programlar. DOI [10.5281/zenodo.24451375](https://doi.org/10.5281/zenodo.24451375).
+[Asallar: kopyaların bıraktığı yer](https://github.com/JamesAugustus/prime-numbers): sayıyı kendi üstüne katlayıp eldeleri sayarak bulunan asallar. Her asalın yeri kapalı bir formül olan bir oku var ve bir sonraki asal, bir öncekinden sabit bir kuralla gelir. Ön baskı, programlar ve testler. DOI [10.5281/zenodo.24597090](https://doi.org/10.5281/zenodo.24597090).
 
-[CTCPU ve Hunter](https://github.com/JamesAugustus/ctcpu-hunter): işlemci fikri, matematiksel modeller ve doğrulama testleri.
+[Bow Draw](https://github.com/JamesAugustus/bow-draw): her sayı tabanında Pascal üçgeninin orta katsayılarının eldeleri, satır sayısına tek bir satırda, okta yetişir. Asal tam orada durur, kopya geçer. Makale, kanıtlar ve programlar. DOI [10.5281/zenodo.24451375](https://doi.org/10.5281/zenodo.24451375).
 
-[Pascal Mersenne Rows](https://github.com/JamesAugustus/pascal-mersenne-rows): Mersenne tabanlarında Pascal satırları, özdeşlikler, tablolar ve kesin aritmetik programları.
+[CTCPU ve Hunter](https://github.com/JamesAugustus/ctcpu-hunter): Pascal yapıları ve kendi sayı notasyonu üzerine kurulu bir işlemci tasarımı. Matematiksel modeller ve doğrulama testleri.
+
+[Pascal Mersenne Rows](https://github.com/JamesAugustus/pascal-mersenne-rows): Pascal üçgeninin hangi satırlarının 2^p − 1 Mersenne tabanında eldesiz yazılabildiği. Kanıtlar, tablolar ve kesin aritmetik programları.
 
 [ctlux-core](https://github.com/JamesAugustus/ctlux-core): aydınlatma proje dosyalarından Radiance sahnelerine dönüşüm, ürün fotometrisi ve yaşa bağlı kamaşma.
 
