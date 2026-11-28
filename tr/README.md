@@ -18,9 +18,9 @@ Dünyanın sırrına yaklaştığımı hissediyorum. O sırra yaklaştıkça, as
 
 [Bow Draw](https://github.com/JamesAugustus/bow-draw): her sayı tabanında Pascal üçgeninin orta katsayılarının eldeleri, satır sayısına tek bir satırda, okta yetişir. Asal tam orada durur, kopya geçer. Makale, kanıtlar ve programlar. DOI [10.5281/zenodo.24451375](https://doi.org/10.5281/zenodo.24451375).
 
-[CTCPU ve Hunter](https://github.com/JamesAugustus/ctcpu-hunter): Pascal yapıları ve kendi sayı notasyonu üzerine kurulu bir işlemci tasarımı. Matematiksel modeller ve doğrulama testleri.
+[CTCPU ve Hunter](https://github.com/JamesAugustus/ctcpu-hunter): Pascal yapıları ve kendi sayı notasyonu üzerine kurulu bir işlemci tasarımı. Matematiksel modeller ve doğrulama testleri. DOI [10.5281/zenodo.23712452](https://doi.org/10.5281/zenodo.23712452).
 
-[Pascal Mersenne Rows](https://github.com/JamesAugustus/pascal-mersenne-rows): Pascal üçgeninin hangi satırlarının 2^p − 1 Mersenne tabanında eldesiz yazılabildiği. Kanıtlar, tablolar ve kesin aritmetik programları.
+[Pascal Mersenne Rows](https://github.com/JamesAugustus/pascal-mersenne-rows): Pascal üçgeninin hangi satırlarının 2^p − 1 Mersenne tabanında eldesiz yazılabildiği. Kanıtlar, tablolar ve kesin aritmetik programları. DOI [10.5281/zenodo.23702003](https://doi.org/10.5281/zenodo.23702003).
 
 [ctlux-core](https://github.com/JamesAugustus/ctlux-core): aydınlatma proje dosyalarından Radiance sahnelerine dönüşüm, ürün fotometrisi ve yaşa bağlı kamaşma.
 
